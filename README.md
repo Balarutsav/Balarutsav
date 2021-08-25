@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balarutsav&label=Profile%20views&color=0e75b6&style=flat" alt="balarutsav" /> </p>
 
-- 🔭 I’m currently working on [Society Mangement](https://github.com/Balarutsav/SocietyManagment.git)
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **balarutsav342311@gmail.com**
