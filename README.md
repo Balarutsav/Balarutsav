@@ -1,4 +1,4 @@
-[image](https://user-images.githubusercontent.com/81766772/119702956-adb88680-be73-11eb-949c-7858e9fdafd5.png)
+![image](https://user-images.githubusercontent.com/81766772/119702956-adb88680-be73-11eb-949c-7858e9fdafd5.png)
 <h1 align="center">Hi 👋, I'm Utsav Balar</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
